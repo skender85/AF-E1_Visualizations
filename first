@@ -1,7 +1,0 @@
-echo "# AF-E1_Visualizations" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/skender85/AF-E1_Visualizations.git
-git push -u origin main
